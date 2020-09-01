@@ -1,0 +1,15 @@
+#rates-box {
+  font-size: 14px;
+  overflow:auto;
+  overflow-y: scroll;
+  height:400px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 30px;
+  box-shadow: 1px 1px 1px 1px #888888;
+}
+
+#search-text {
+  font-size: 14px;
+}
